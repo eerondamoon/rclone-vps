@@ -1,0 +1,13 @@
+# rclone : jetons Drive et mots de passe du coffre
+rclone.conf
+*.conf
+.config/
+
+# Secrets
+.env
+.env.*
+*.pem
+*.key
+token*.json
+client_secret*.json
+credentials.json
